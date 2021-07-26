@@ -1,10 +1,6 @@
 `timescale 1ns / 1ps
 
-/*
-    Group Members: Nikita Eisenhauer and Warren Seto
-    Lab Name: Adder Design
-    Design Description: Verilog Module to implement a 64-bit ripple adder
-*/
+
 
 module ripple_adder_64
 (
@@ -94,11 +90,7 @@ module ripple_adder_64
 endmodule
 
 
-/*
-    Group Members: Nikita Eisenhauer and Warren Seto
-    Lab Name: Adder Design
-    Design Description: Verilog Module for the full adder module that will be used in the 64-bit ripple adder
-*/
+
 
 module full_adder
 (
